@@ -56,22 +56,22 @@ This project is an iOS application that connects to the **Polar H9** heart rate 
 ## 📸 Screenshots
 
 #### Phone Home Screen
-<img src="images/Phone_home_screen.jpeg" height="400" />
+<img src="Images/Phone_home_screen.jpeg" height="400" />
 
 #### Home Screen
-<img src="images/home_screen.jpeg" height="400" />
+<img src="Images/home_screen.jpeg" height="400" />
 
 #### Search Device
-<img src="images/search_device.jpeg" height="400" />
+<img src="Images/search_device.jpeg" height="400" />
 
 #### Device Connected
-<img src="images/connected_listening_off.jpeg" height="400" />
+<img src="Images/connected_listening_off.jpeg" height="400" />
 
 #### Start Listening to device
-<img src="images/graph.jpeg" height="400" />
+<img src="Images/graph.jpeg" height="400" />
 
 #### HeartRateData.txt file
-<img src="images/Heartrate_data_file.jpeg" height="400" />
+<img src="Images/Heartrate_data_file.jpeg" height="400" />
 
 ## 🐛 Known Issues
 - **Connection Stability** - BLE connection sometimes drops unexpectedly.
@@ -93,6 +93,6 @@ This application follows the **IEC 62304** standard for medical device software 
 ## 📧 Contact
 Created by **Omkumar Dhirenbhai Solanki**  
 📩 solanki.o@northeastern.edu 
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/yourprofile/)  
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/omsolanki/)  
 
 ---
