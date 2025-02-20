@@ -14,7 +14,7 @@ This project is an iOS application that connects to the **Polar H9** heart rate 
 
 **Simple UI** - A lightweight and user-friendly interface focused on heart rate display.
 
-## 🚀 Getting Started
+## Getting Started
 ### Prerequisites
 - **Xcode** (Latest Version)
 - **iOS 15+**
@@ -27,18 +27,18 @@ This project is an iOS application that connects to the **Polar H9** heart rate 
    ```sh
    sudo gem install cocoapods
    ```
-2. Navigate to your project directory:
-   ```sh
-   cd /Project_Path/
-   ```
-3. Install dependencies using CocoaPods:
-   ```sh
-   pod install
-   ```
-4. Clone this repository:
+2. Clone this repository:
    ```sh
    git clone https://github.com/OmkumarSolanki/heart-rate-app
    cd heart-rate-app
+   ```
+3. Navigate to your project directory:
+   ```sh
+   cd /Project_Path/
+   ```
+4. Install dependencies using CocoaPods:
+   ```sh
+   pod install
    ```
 5. Initialize CocoaPods:
    ```sh
@@ -48,12 +48,12 @@ This project is an iOS application that connects to the **Polar H9** heart rate 
 7. Connect your iPhone via USB or use an iOS simulator.
 8. Build and run the project.
 
-## 🛠️ Technologies Used
+## Technologies Used
 - **Swift 5** - Primary language for development.
 - **CoreBluetooth** - Framework for Bluetooth communication.
 - **UIKit** - Standard UI framework for iOS.
 
-## 📸 Screenshots
+## Screenshots
 
 #### Phone Home Screen
 <img src="Images/Phone_home_screen.jpeg" height="400" />
@@ -73,10 +73,10 @@ This project is an iOS application that connects to the **Polar H9** heart rate 
 #### HeartRateData.txt file
 <img src="Images/Heartrate_data_file.jpeg" height="400" />
 
-## 🐛 Known Issues
+## Known Issues
 - **Connection Stability** - BLE connection sometimes drops unexpectedly.
 
-## 📏 IEC 62304 Compliance
+## IEC 62304 Compliance
 This application follows the **IEC 62304** standard for medical device software lifecycle processes. The development process adheres to:
 - **Software Development Planning** ensuring traceability and risk management.
 - **Software Requirements Analysis** defining software requirements to meet user and regulatory needs.
@@ -90,7 +90,7 @@ This application follows the **IEC 62304** standard for medical device software 
 - **Software Problem Resolution** addressing and resolving defects to enhance reliability.
 
 
-## 📧 Contact
+## Contact
 Created by **Omkumar Dhirenbhai Solanki**  
 📩 solanki.o@northeastern.edu 
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/omsolanki/)  
